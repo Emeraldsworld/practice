@@ -1,13 +1,13 @@
 p {
-    border: 5px solid pink;
-    padding:30px
+    padding:30px;
+    background-image: url(Velvette\ background.png);
+    height: 100px;
+    width: 500px;
+    background-repeat:no-repeat;
 }
 h2 {
     margin:40px
 }
 a:link {
-    color:aquamarine
-}
-p {
-background-image: url(bread.jpg);
+    color:rgb(0, 0, 0)
 }
